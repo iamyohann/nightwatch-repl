@@ -1,0 +1,25 @@
+{
+  "name": "nightwatch-repl",
+  "version": "0.0.1",
+  "description": "A REPL for NightwatchJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamyohann/nightwatch-repl.git"
+  },
+  "keywords": [
+    "Nightwatch",
+    "Javascript",
+    "NightwatchJS",
+    "Development"
+  ],
+  "author": "Yohann",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iamyohann/nightwatch-repl/issues"
+  },
+  "homepage": "https://github.com/iamyohann/nightwatch-repl#readme"
+}
