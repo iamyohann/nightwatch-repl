@@ -1,8 +1,8 @@
 {
   "name": "nightwatch-repl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A REPL for NightwatchJS",
-  "main": "index.js",
+  "main": "repl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/iamyohann/nightwatch-repl/issues"
   },
-  "homepage": "https://github.com/iamyohann/nightwatch-repl#readme"
+  "homepage": "https://github.com/iamyohann/nightwatch-repl#readme",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "readline": "^1.3.0"
+  }
 }
